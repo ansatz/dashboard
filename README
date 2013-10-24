@@ -1,0 +1,6 @@
+# add this to .bashrc
+
+function hrl()
+{
+	( python ~/dev1/dashboard/hourly.py )
+}
